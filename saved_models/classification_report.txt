@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+   blackspot       1.00      0.96      0.98       111
+      canker       1.00      0.91      0.95       112
+    greening       0.87      1.00      0.93       108
+     healthy       1.00      0.98      0.99       117
+       other       1.00      1.00      1.00        23
+
+    accuracy                           0.97       471
+   macro avg       0.97      0.97      0.97       471
+weighted avg       0.97      0.97      0.97       471
